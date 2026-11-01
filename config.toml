@@ -1,0 +1,3 @@
+ckan-address = "https://data.wprdc.org"
+dataset-id = "allegheny-county-weights-and-measures-inspections"
+download-directory = "raw"
